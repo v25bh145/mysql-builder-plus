@@ -1,22 +1,22 @@
 {
   "name": "mysql-builder-plus",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A auto-builder for mysql statement",
   "author": "v25bh145 <1368179767@qq.com> (https://v25bh145.github.io/)",
   "license": "MIT",
-  "package name": "mysql-builder",
+  "package name": "mysql-builder-plus",
   "dependencies": {
     "async": "^3.2.0",
     "mysql": "^2.18.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/v25bh145/mysql-builder.git"
+    "url": "git+https://github.com/v25bh145/mysql-builder-plus.git"
   },
   "bugs": {
-    "url": "https://github.com/v25bh145/mysql-builder/issues"
+    "url": "https://github.com/v25bh145/mysql-builder-plus/issues"
   },
-  "homepage": "https://github.com/v25bh145/mysql-builder#readme",
+  "homepage": "https://github.com/v25bh145/mysql-builder-plus#readme",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
